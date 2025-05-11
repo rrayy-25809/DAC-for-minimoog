@@ -1,0 +1,6 @@
+{
+    "arduino.path": "C:/Program Files/Arduino",
+    "arduino.commandPath": "arduino_debug.exe",  // 또는 "arduino.exe"
+    "arduino.defaultBaudRate": 115200
+
+}
