@@ -1,6 +1,4 @@
 {
-    "arduino.path": "C:/Program Files/Arduino",
-    "arduino.commandPath": "arduino_debug.exe",  // 또는 "arduino.exe"
-    "arduino.defaultBaudRate": 115200
-
+    "arduino.useArduinoCli": true,
+    "arduino.commandPath": "C:\\Users\\rrayy\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\resources\\arduino-cli.exe"
 }

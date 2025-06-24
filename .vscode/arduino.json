@@ -1,3 +1,5 @@
 {
+    "sketch": "DAC.ino",
+    "board": "teensy:avr:teensy4:usb=serial",
     "port": "COM3"
 }
