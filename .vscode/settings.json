@@ -1,4 +1,6 @@
 {
     "arduino.useArduinoCli": true,
-    "arduino.commandPath": "C:\\Users\\rrayy\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\resources\\arduino-cli.exe"
+    "arduino.commandPath": "C:\\Users\\rrayy\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\resources\\arduino-cli.exe",
+    "arduino.path": "C:\\Users\\rrayy\\AppData\\Local\\Programs\\Arduino IDE",
+    "arduino.enableUSBDetection": true,
 }
