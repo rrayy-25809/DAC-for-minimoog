@@ -15,8 +15,8 @@
             "windowsSdkVersion": "10.0.26100.0",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-gcc-arm64",
-            "compilerPath": "\"C:\\\\Users\\\\rrayy\\\\AppData\\\\Local\\\\Programs\\\\Arduino IDE\\\\resources\\\\app\\\\lib\\\\backend\\\\resources\\\\arduino-cli.exe\""
+            "intelliSenseMode": "windows-gcc-x86",
+            "compilerPath": "\"C:\\Users\\rrayy\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\bin/avr-gcc.exe\""
         }
     ],
     "version": 4
